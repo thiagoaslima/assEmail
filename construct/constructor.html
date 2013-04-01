@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="pt-br" ng-app>
+<head>
+<meta charset="utf-8">
+<title>Asinaturas Tecsis</title>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.5/angular.min.js"></script>
+<link type="text/css" href="css/bootstrap.min.css" rel="stylesheet">
+<style type="text/css" media="screen">
+  iframe{
+    border: 0; padding: 0; margin: 0; outline: 0;
+  }
+</style>
+</head>
+
+<body>
+
+<div class="row">
+  
+  <form class="form-horizontal span3">
+    <br>
+
+    <div class="control-group">
+      <label class="control-label" for="inputName">Nome Completo</label>
+      <div class="controls">
+        <input type="text" id="inputName" ng-model="nomeColaborador" placeholder="nome">
+      </div>  
+    </div>
+    
+
+    <div class="control-group">
+      <label class="control-label" for="inputCargo">Cargo</label>
+      <div class="controls">
+        <input type="text" id="inputCargo" placeholder="cargo">
+      </div>  
+    </div>
+
+    <div class="control-group">
+      <label class="control-label" for="inputTel">Telefone</label>
+      <div class="controls">
+        <input type="text" id="inputTel" placeholder="(XX) XXX-XXXX">
+      </div>  
+    </div>
+
+    <h1>Nome: {{nomeColaborador}}</h1>
+  </form>
+
+<!--   <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="tmpEmail.html" class="span6 offset4"></iframe> -->
+
+  <div class="span6 offset4">
+    <table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+  <tr>
+      <td colspan="3" height="10"><img border="0" style="border:none; display:block" src="http://farm9.staticflickr.com/8528/8611501744_2ee9356fd4_t.jpg" width="10" height="10" alt=""></td> 
+    </tr>
+  
+  <tr>
+    <td width="88" height="58"  valign="bottom"><img align="right" border="0" style="border:none; display:block" src="http://farm9.staticflickr.com/8243/8610394783_68933da501_t.jpg" width="88" height="58" alt="Tecsis"></td>
+    <td rowspan="4" valign="top" width="15"><img border="0" style="border:none; display:block" src="http://farm9.staticflickr.com/8112/8610394745_52cc3f5b1f_t.jpg" width="15" height="70" alt=""></td>
+    <td valign="bottom" style="font-family:Tahoma, Geneva, sans-serif"><span style="font-family:Tahoma, Geneva, sans-serif; font-size:14px; line-height:20px; font-weight:bold; color:#006991">{{teste}}</span><br><span style="font-family:Tahoma, Geneva, sans-serif; font-size:12px; line-height:16px; font-weight:normal; color:#404040">{{Cargo colaborador}}</span><br></td>
+  </tr>
+    
+  <tr>
+    <td width="88"><img border="0" style="border:none; display:block" align="right" src="http://farm9.staticflickr.com/8528/8611501744_2ee9356fd4_t.jpg" width="10" height="10" alt=""></td>
+    <td><img border="0" style="border:none; display:block" src="http://farm9.staticflickr.com/8528/8611501744_2ee9356fd4_t.jpg" width="10" height="10" alt=""></td>
+  </tr>
+    
+  <tr>
+    <td width="88" valign="bottom" align="right"><a href="http://www.tecsis.com.br" rel="external" target="_blank" style="font-family:Tahoma, Geneva, sans-serif; font-size:11px; line-height:16px; font-weight:normal; color:#006991; text-decoration:none"><span style="color:#006991">www.tecsis.com.br</span></a></td>
+    <td valign="bottom" align="left"><span style="font-family:Tahoma, Geneva, sans-serif; font-size:11px; line-height:16px; font-weight:normal; color:#404040">{{Tel}}:&nbsp;</span><span style="font-family:Tahoma, Geneva, sans-serif; font-size:12px; line-height:16px; font-weight:normal; color:#006991">{{+55 21 1234 5678}}</span><br><span style="font-family:Tahoma, Geneva, sans-serif; font-size:11px; line-height:16px; font-weight:normal; color:#404040">{{Cel}}.:&nbsp;</span><span style="font-family:Tahoma, Geneva, sans-serif; font-size:12px; line-height:16px; font-weight:normal; color:#006991">{{+55 21 1234 5678}}</span></td>
+  </tr>
+    
+    <tr>
+    <td width="88" height="10"><img border="0" style="border:none; display:block" src="http://farm9.staticflickr.com/8528/8611501744_2ee9356fd4_t.jpg" width="10" height="10" alt=""></td>
+    <td width="295" height="10"><img border="0" style="border:none; display:block" src="http://farm9.staticflickr.com/8528/8611501744_2ee9356fd4_t.jpg" width="10" height="10" alt=""></td>
+  </tr>
+    
+  <tr><td valign="top" colspan="3"><span style="font-family:Tahoma, Geneva, sans-serif; font-size:10px; line-height:16px; font-weight:bold; color:#9A9A9A">Antes de imprimir, verifique se é mesmo indispensável. O planeta agradece.</span></td></tr>
+</table>
+</div>
+
+ <div id="code" class="span8 offset1">
+
+  </div>
+    
+
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+</body>
+</html>
