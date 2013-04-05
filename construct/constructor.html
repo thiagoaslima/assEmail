@@ -2,18 +2,26 @@
 <html lang="pt-br">
 <head>
 <meta charset="utf-8">
-<title>Asinaturas Tecsis</title>
+<title>Tecsis | Gerador de assinaturas de email</title>
 <link type="text/css" href="css/bootstrap.min.css" rel="stylesheet">
 <style type="text/css" media="screen">
   iframe{ border: 0; padding: 0; margin: 0; outline: 0; }
+  header{ background-image: url(http://farm9.staticflickr.com/8396/8612542765_e6c62dfdb3_t.jpg); background-repeat: repeat; border-bottom: 1px solid rgb(230,230,230); padding-bottom: 20px; margin-bottom: 20px }
+  span.close { margin-left: 10px; padding-top: 5px}
+  select.control-label {width:100px !important; margin-left: 60px;}
 </style>
 </head>
 
 <body>
 
+<header class="row">
+    <h1 class="span2 offset1"><img src="http://farm9.staticflickr.com/8103/8613639720_3793476a46_t.jpg" width="100" height="69" alt="Tecsis"></h1>
+    <p class="span8 offset1"><br><br>Preencha o formulário abaixo e copie o código gerado para obter sua assinatura de email.<br><em>Consulte o setor de TI sobre como configurar seu programa de email.</em></p>
+</header>
+
 <div class="row">
   
-  <form class="form-horizontal span3">
+  <form class="form-horizontal span6">
     <br>
 
     <div class="control-group">
@@ -32,18 +40,29 @@
     </div>
 
     <div class="control-group">
-      <label class="control-label" for="inputTel">Telefone</label>
-      <div class="controls">
-        <input type="text" id="inputTel" name="inputTel" placeholder="(XX) XXX-XXXX">
-      </div>  
+      <select class="control-label contacts0" for="inputJob">
+        <option value="tel">Fixo</option>}
+        <option value="cel">Celular</option>
+        <option value="fax">Fax</option>
+      </select>
+      <div class="controls contacts0">
+         <input type="tel" id="inputTel" name="inputTel" placeholder="(XX) XXX-XXXX" class="pull-left"><span class="close pull-left remove">×</span>
+      </div>
+      <br>
+      <br>
+      <button id='add' class="btn btn-mini span3 offset2" type="button">Adicionar novo número de contato</button>
     </div>
 
-    <h1>Nome: {{nomeColaborador}}</h1>
+    <div class="control-group">
+      <div class="controls">
+        
+      </div>  
+    </div>
   </form>
 
 <!--   <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="tmpEmail.html" class="span6 offset4"></iframe> -->
 
-  <div class="span6 offset4">
+  <div class="span6">
     <table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
   <tr>
       <td colspan="3" height="10"><img border="0" style="border:none; display:block" src="http://farm9.staticflickr.com/8528/8611501744_2ee9356fd4_t.jpg" width="10" height="10" alt=""></td> 
@@ -52,7 +71,7 @@
   <tr>
     <td width="88" height="58"  valign="bottom"><img align="right" border="0" style="border:none; display:block" src="http://farm9.staticflickr.com/8243/8610394783_68933da501_t.jpg" width="88" height="58" alt="Tecsis"></td>
     <td rowspan="4" valign="top" width="15"><img border="0" style="border:none; display:block" src="http://farm9.staticflickr.com/8112/8610394745_52cc3f5b1f_t.jpg" width="15" height="70" alt=""></td>
-    <td valign="bottom" style="font-family:Tahoma, Geneva, sans-serif"><span class="fieldNome" style="font-family:Tahoma, Geneva, sans-serif; font-size:14px; line-height:20px; font-weight:bold; color:#006991">{{teste}}</span><br><span style="font-family:Tahoma, Geneva, sans-serif; font-size:12px; line-height:16px; font-weight:normal; color:#404040">{{Cargo colaborador}}</span><br></td>
+    <td valign="bottom" style="font-family:Tahoma, Geneva, sans-serif"><span class="fieldNome" style="font-family:Tahoma, Geneva, sans-serif; font-size:14px; line-height:20px; font-weight:bold; color:#006991">Nome do Colaborador</span><br><span  class="fieldJob" style="font-family:Tahoma, Geneva, sans-serif; font-size:12px; line-height:16px; font-weight:normal; color:#404040">Cargo colaborador</span><br></td>
   </tr>
     
   <tr>
@@ -62,7 +81,7 @@
     
   <tr>
     <td width="88" valign="bottom" align="right"><a href="http://www.tecsis.com.br" rel="external" target="_blank" style="font-family:Tahoma, Geneva, sans-serif; font-size:11px; line-height:16px; font-weight:normal; color:#006991; text-decoration:none"><span style="color:#006991">www.tecsis.com.br</span></a></td>
-    <td valign="bottom" align="left"><span style="font-family:Tahoma, Geneva, sans-serif; font-size:11px; line-height:16px; font-weight:normal; color:#404040">{{Tel}}:&nbsp;</span><span style="font-family:Tahoma, Geneva, sans-serif; font-size:12px; line-height:16px; font-weight:normal; color:#006991">{{+55 21 1234 5678}}</span><br><span style="font-family:Tahoma, Geneva, sans-serif; font-size:11px; line-height:16px; font-weight:normal; color:#404040">{{Cel}}.:&nbsp;</span><span style="font-family:Tahoma, Geneva, sans-serif; font-size:12px; line-height:16px; font-weight:normal; color:#006991">{{+55 21 1234 5678}}</span></td>
+    <td valign="bottom" align="left"><span style="font-family:Tahoma, Geneva, sans-serif; font-size:11px; line-height:16px; font-weight:normal; color:#404040">Tel:&nbsp;</span><span style="font-family:Tahoma, Geneva, sans-serif; font-size:12px; line-height:16px; font-weight:normal; color:#006991">+55 21 1234 5678</span><br><span style="font-family:Tahoma, Geneva, sans-serif; font-size:11px; line-height:16px; font-weight:normal; color:#404040">Cel:&nbsp;</span><span style="font-family:Tahoma, Geneva, sans-serif; font-size:12px; line-height:16px; font-weight:normal; color:#006991">+55 21 1234 5678</span></td>
   </tr>
     
     <tr>
@@ -82,5 +101,19 @@
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="js/app.js" type="text/javascript" charset="utf-8" async defer></script>
+<script id="tmp-cNumber" type="text/template">
+  <select class="control-label contacts" for="inputJob"><option value="Tel">Fixo</option><option value="Cel">Celular</option><option value="Fax">Fax</option></select>
+ 
+  <div class="controls contacts">
+     <input type="tel" id="inputTel" name="inputTel" placeholder="(XX) XXX-XXXX" class="pull-left">
+     <span class="close pull-left remove">×</span>
+  </div>
+  <br><br>
+</script>
+
+<script id="tmp-preview-contacts" type="text/template">
+  <span style="font-family:Tahoma, Geneva, sans-serif; font-size:11px; line-height:16px; font-weight:normal; color:#404040">{{Tel}}:&nbsp;</span><span style="font-family:Tahoma, Geneva, sans-serif; font-size:12px; line-height:16px; font-weight:normal; color:#006991">{{+55 21 1234 5678}}</span><br>
+</script>
+
 </body>
 </html>
