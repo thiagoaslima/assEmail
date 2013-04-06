@@ -1,6 +1,7 @@
-require(['jquery'], function($){
+define(['jquery'], function($){
+    'use strict';
 
-    helpers = {
+    var helpers = {
 
         obj: {
             extend: function(obj) {
@@ -20,10 +21,11 @@ require(['jquery'], function($){
             getProp: function(key) {
                 var el, i, len;
 
-                key = this.serializeKey(key);
-
-                for (i = 0, len = key.length; i<len; i++) {
-                    el = this[key[i]];
+                key = helpers.access.serializeKey(key);
+                el = this[key[0]];
+                
+                for (i = 1, len = key.length; i<len; i++) {
+                    el = el[key[i]];
                 }
 
                 return el;
@@ -45,8 +47,10 @@ require(['jquery'], function($){
 
             serializeKey: function(key) {
                 key = key.replace(/\[/g, '.').replace(/\]/g, '');
-                return Array.prototype.split.call(key, '.');
+                return String.prototype.split.call(key, '.');
             }
         }
     };
+
+    return helpers;
 });

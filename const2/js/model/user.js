@@ -1,5 +1,8 @@
-require(['helpers'], function($h){
+define(['helpers'], function($h){
     'use strict';
+
+    var $hobj = $h.obj,
+        $hac = $h.access;
 
     function User() {
         this.name = '';
@@ -13,23 +16,24 @@ require(['helpers'], function($h){
         };
     }
 
-    $h.obj.extendProto.call(User,{
+    $hobj.extendProto.call(User,{
+        getProp: $hac.getProp,
+
         getData: function (key) {
-            var $ac = $h.access,
-                el = $ac.getProp(key);
-            return $ac.makeCopy(el);
+            var el = this.getProp(key);
+            return $hac.makeCopy(el);
         },
 
         setData: function (key, value) {
-            var $ac = $h.access,
-                el = $ac.serializeKey(key),
+            var el = $hac.serializeKey(key),
                 last = el.pop();
 
-            el = (el.length > 0) ? $ac.getProp(el.join('.')) : this;
+            el = (el.length > 0) ? this.getProp(el.join('.')) : this;
             el[last] = value;
 
             return this;
         }
     });
 
+    return User;
 });
