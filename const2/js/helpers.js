@@ -18,18 +18,22 @@ define(['jquery'], function($){
         },
 
         access: {
-            getProp: function(key) {
-                var el, i, len;
+            getProp: (function() {
+                var self = this;
 
-                key = helpers.access.serializeKey(key);
-                el = this[key[0]];
-                
-                for (i = 1, len = key.length; i<len; i++) {
-                    el = el[key[i]];
+                return function(key) {
+                    var el, i, len;
+
+                    key = self.serializeKey(key);
+                    el = this[key[0]];
+                    
+                    for (i = 1, len = key.length; i<len; i++) {
+                        el = el[key[i]];
+                    }
+
+                    return el;
                 }
-
-                return el;
-            },
+            }),
 
             makeCopy: function(el) {
                 var resp;
