@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang='pt-br'>
+<head>
+	<title>Tecsis | Gerador de Assinaturas de Email</title>
+	<meta charset='utf-8'>
+	<link type="text/css" href="css/bootstrap.min.css" rel="stylesheet">
+	<style type="text/css" media="screen">
+	  header{ background-image: url(http://farm9.staticflickr.com/8396/8612542765_e6c62dfdb3_t.jpg); background-repeat: repeat; border-bottom: 1px solid rgb(230,230,230); padding: 20px 0; margin-bottom: 20px }
+	  span.close { margin-left: 10px; padding-top: 5px}
+	  select.control-label {width:100px !important; margin-left: 60px;}
+	</style>
+</head>
+
+<body>
+
+<header>
+	<div class="container row">
+	<h1 class="span2"><img src="http://farm9.staticflickr.com/8103/8613639720_3793476a46_t.jpg" width="100" height="69" alt="Tecsis"></h1>
+	<p class="span8"><br><br>Preencha o formulário abaixo e copie o código gerado para obter sua assinatura de email.<br><em>Consulte o setor de TI sobre como configurar seu programa de email.</em></p>
+	</div>
+</header>
+
+<div class="container row text-center">
+
+	<form action="confirm.php" method="post" class="form-horizontal span6">
+	<br>
+
+	<div class="control-group">
+		<label class="control-label" for="name">Nome Completo</label>
+		<div class="controls">
+			<input type="text" id="name" name="name" placeholder="nome">
+		</div>  
+	</div>
+
+	<div class="control-group">
+		<label class="control-label" for="email">Email</label>
+		<div class="controls">
+			<input type="email" id="email" name="email" placeholder="email">
+		</div>  
+	</div>
+
+	<div class="control-group">
+		<label class="control-label" for="job">Cargo</label>
+		<div class="controls">
+			<input type="text" id="job" name="job" placeholder="cargo">
+		</div>
+	</div>
+
+	<div class="control-group">
+		<select class="control-label" id="typeTel1" name="typeTel1" >
+			<option value="tel">Fixo</option>}
+			<option value="cel">Celular</option>
+			<option value="fax">Fax</option>
+		</select>
+		<div class="controls">
+			<input type="tel" id="inputTel1" name="inputTel1" placeholder="(XX) XXX-XXXX" class="pull-left span2">
+			<input type="tel" id="ramalTel1" name="ramalTel1" placeholder="ramal" class="pull-left span1">
+		</div>
+		<br>
+
+		<select class="control-label" id="typeTel2" name="typeTel2" >
+			<option value="tel">Fixo</option>}
+			<option value="cel">Celular</option>
+			<option value="fax">Fax</option>
+		</select>
+		<div class="controls">
+			<input type="tel" id="inputTel2" name="inputTel2" placeholder="(XX) XXX-XXXX" class="pull-left span2">
+			<input type="tel" id="ramalTel2" name="ramalTel2" placeholder="ramal" class="pull-left span1">
+		</div>
+		<br>
+
+		<select class="control-label" id="typeTel3" name="typeTel3" >
+			<option value="tel">Fixo</option>}
+			<option value="cel">Celular</option>
+			<option value="fax">Fax</option>
+		</select>
+		<div class="controls">
+			<input type="tel" id="inputTel3" name="inputTel3" placeholder="(XX) XXX-XXXX" class="pull-left span2">
+			<input type="tel" id="ramalTel3" name="ramalTel3" placeholder="ramal" class="pull-left span1">
+		</div>
+		<br>
+		
+	</div>
+
+	<div class="control-group">
+		<div class="controls">
+			<input class="btn btn-hero" type="submit" name="submit" value="Gerar código" />
+		</div>
+	</div>
+
+	</form>
+
+</div>
+
+<script data-main="js/main" src="js/require-jquery.js" type="text/javascript" charset="utf-8" async defer></script>
+</body>
+</html>

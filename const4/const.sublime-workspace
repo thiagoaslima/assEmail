@@ -1,0 +1,1534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"la",
+				"lang"
+			],
+			[
+				"fi",
+				"field"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"st",
+				"stringFields"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"select",
+				"SELECT	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"co",
+				"constructor"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"mi",
+				"miw	min-width"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"wh",
+				"whs:n	white-space:normal"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"op",
+				"op	opacity"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"bx",
+				"bxz	box-sizing"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bod",
+				"bodyId"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"t",
+				"time	<time>"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"bo",
+				"bodyContent"
+			],
+			[
+				"not",
+				"noticias"
+			],
+			[
+				"ser",
+				"servicos"
+			],
+			[
+				"po",
+				"pos:r	position:relative"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"tr",
+				"trs	transition"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"lis",
+				"lis:n	list-style:none"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"cl",
+				"cl:b	clear:both"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"home",
+				"home_link"
+			],
+			[
+				"ph",
+				"php"
+			],
+			[
+				"f",
+				"fz	font-size"
+			],
+			[
+				"bg",
+				"bgz	background-size"
+			],
+			[
+				"as",
+				"absolute"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"P",
+				"pb	padding-bottom"
+			],
+			[
+				"h",
+				"ho	:hover"
+			],
+			[
+				"border-bott",
+				"border-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"li",
+				"lis	list-style"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"border-b",
+				"border-bottom-color"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"bz",
+				"bgz	background-size"
+			],
+			[
+				"zoo",
+				"zoo	zoom: 1;"
+			],
+			[
+				"sans",
+				"sansGen"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"fl",
+				"fl:l	float:left"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"ost",
+				"ostBold"
+			],
+			[
+				"cu",
+				"cur:p	cursor:pointer"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"d",
+				"d-ib	display: inline-block;"
+			],
+			[
+				"ie",
+				"IE"
+			],
+			[
+				"b",
+				"bdrs	border-radius"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"input",
+				"input	input - checkbox"
+			],
+			[
+				"fw",
+				"fw:n	font-weight:normal"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"ver",
+				"verdeEscuro"
+			],
+			[
+				"margt",
+				"margin-bottom"
+			],
+			[
+				"v",
+				"va	vertical-align"
+			],
+			[
+				"ls",
+				"letter-spacing"
+			],
+			[
+				"tt",
+				"tt:u	text-transform:uppercase"
+			],
+			[
+				"bgp",
+				"bgp	background-position"
+			],
+			[
+				"bgr",
+				"bgr:n	background-repeat:no-repeat"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"bxs",
+				"bxsh+	box-shadow:0 0 0 #000"
+			],
+			[
+				"ts",
+				"tsh+	text-shadow:0 0 0 #000"
+			],
+			[
+				"az",
+				"azulClaro"
+			],
+			[
+				"ex",
+				"ext	@extend"
+			],
+			[
+				"va",
+				"va:m	vertical-align:middle"
+			],
+			[
+				"wo",
+				"wow:n	word-wrap:none"
+			],
+			[
+				"bxz",
+				"bxz:bb	box-sizing:border-box"
+			],
+			[
+				"img",
+				"img	img"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"lvm",
+				"lvmdata	text data lvm"
+			],
+			[
+				"data",
+				"data-dia"
+			],
+			[
+				"attrs",
+				"attributes"
+			],
+			[
+				"mes",
+				"meses"
+			],
+			[
+				"meses",
+				"mesesMin"
+			],
+			[
+				"ar",
+				"array_shift"
+			],
+			[
+				"func",
+				"func_get_args"
+			],
+			[
+				"ti",
+				"timing"
+			],
+			[
+				"bgs",
+				"background-size"
+			],
+			[
+				"ws",
+				"whs	white-space"
+			],
+			[
+				"to",
+				"top	top"
+			],
+			[
+				"l",
+				"lis	list-style"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"bgi",
+				"bgi	background-image: url(${0});"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"smtp",
+				"smtpReali"
+			],
+			[
+				"email",
+				"emailReali"
+			],
+			[
+				"utf",
+				"utf-8"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/dev/tecsis-assEmail/construct/constructor.html",
+			"settings":
+			{
+				"buffer_size": 6643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/dev/tecsis-assEmail/const2/js/model/user.js",
+			"settings":
+			{
+				"buffer_size": 817,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "confirm.php",
+			"settings":
+			{
+				"buffer_size": 1016,
+				"line_ending": "Windows",
+				"name": "confirm.php"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3034,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "previewer.html",
+			"settings":
+			{
+				"buffer_size": 3428,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"Lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"theme",
+				"Snippet: Theme Head"
+			],
+			[
+				"en",
+				"Web encoder: HTML encode selection"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"enco",
+				"Web encoder: Url encode selection"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"U",
+				"Convert Case: Upper Case"
+			],
+			[
+				"UPP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"CASE",
+				"Convert Case: Upper Case"
+			],
+			[
+				"html s",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"co",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"setT",
+				"Snippet: setTimeout function"
+			],
+			[
+				"enc",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"meta",
+				"Snippet: LVM: Add metabox"
+			],
+			[
+				"met",
+				"Snippet: LVM: Add metabox"
+			],
+			[
+				"cpt",
+				"Snippet: LVM: Register CPT + MetaBox"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"lvm",
+				"Snippet: LVM: save metadata"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"syn jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"html ",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"jq ",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"cs",
+				"Sort via CSScomb"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"add me",
+				"Snippet: LVM: Add metabox"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"git",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"ti",
+				"Convert Case: Title Case"
+			],
+			[
+				"t",
+				"Convert Case: Title Case"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"cas",
+				"Convert Case: Title Case"
+			],
+			[
+				"tas",
+				"Set Syntax: Tasks"
+			],
+			[
+				"to",
+				"Todo: Add"
+			],
+			[
+				"todo",
+				"Todo: Add-at-line"
+			],
+			[
+				"gi",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"syn p",
+				"Set Syntax: PHP"
+			],
+			[
+				"synta ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gis",
+				"Gist: Update File"
+			],
+			[
+				"synta",
+				"Set Syntax: PHP"
+			],
+			[
+				"lv",
+				"Snippet: LVM: Text field (unique)"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sni bo",
+				"Snippet: boolean-field"
+			],
+			[
+				"wor",
+				"Snippet: Easy way to start WordPress plugin"
+			],
+			[
+				"DO",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"DOC",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"synt php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax",
+				"Set Syntax: CSS"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"synta htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"SNI WOR",
+				"Snippet: Register CPT + MetaBox Wordpress"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Start Docblock"
+			],
+			[
+				"Snippet: w",
+				"Snippet: Register CPT + MetaBox Wordpress"
+			],
+			[
+				"snip w",
+				"Snippet: Register CPT + MetaBox Wordpress"
+			],
+			[
+				"Gist:",
+				"Gist: Insert Gist"
+			],
+			[
+				"snippets w",
+				"Snippet: Easy way to start WordPress plugin"
+			],
+			[
+				"new",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"sni",
+				"Snippet: Register CPT + MetaBox Wordpress"
+			],
+			[
+				"dele",
+				"Gist: Delete Gist File"
+			],
+			[
+				"gist:",
+				"Gist: Open Gist in Browser"
+			],
+			[
+				"sni ",
+				"Snippet: Register CPT + MetaBox Wordpress"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sni wo",
+				"Snippet: Register CPT + MetaBox Wordpress"
+			],
+			[
+				"sni wor",
+				"Snippet: Register CPT + MetaBox Wordpress"
+			],
+			[
+				"ali",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"algn",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"snip wo",
+				"Snippet: Register Custom Post Type Wordpress"
+			],
+			[
+				"word meta",
+				"Snippet: Create custom meta boxes using the Tammy's Hart system, available at https://github.com/tammyhart/Reusable-Custom-WordPress-Meta-Boxes"
+			],
+			[
+				"snip word",
+				"Snippet: Register Custom Post Type Wordpress"
+			],
+			[
+				"worpre",
+				"Snippet: Easy way to start WordPress plugin"
+			],
+			[
+				"syntax p",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"file",
+				"Snippet: FILES['…']"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"f",
+				"Fetch: Package"
+			],
+			[
+				"p",
+				"Preferences: Settings - User"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"pre",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const2/js/model/form.js",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const4/tmpl/btnAddField.html",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const4/tmpl/brnRemoveField",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/construct/js/app.js",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const2/js/view/preview/nomeColaborador.js",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const2/js/view/preview/view-preview.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const2/js/tmpl/preview/tmpl-nomeColaborador.htm",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const2/js/main.js",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const2/js/ctrl/inputCtrl.js",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const2/index.html",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const2/js/view/inputView.js",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const2/js/helpers.js",
+		"/C/xampp/htdocs/dev/tecsis-assEmail/const2/js/contrl/inputCtrl.js",
+		"/C/xampp/htdocs/dev/angular-phonecat/app/index.html",
+		"/C/xampp/htdocs/tecsis.dev/pt.html",
+		"/C/xampp/htdocs/tecsis.dev/index.php",
+		"/E/Aperas/Tecsis/2012/08_agosto/papelaria/cartoes/gerentes.txt",
+		"/E/Aperas/Tecsis/2012/09_setembro/certificados curso Lideranca/6a turma/names.xml",
+		"/C/xampp/htdocs/tecsis.dev/scss/main2.scss",
+		"/E/Aperas/Tecsis/2012/08_agosto/papelaria/cartoes/2013-02-14.txt",
+		"/C/xampp/htdocs/tecsis.dev/css/main.css",
+		"/C/xampp/htdocs/dev/lgbeauty2.dev/.htaccess",
+		"/C/xampp/htdocs/dev/tecsis1.dev/.htaccess",
+		"/C/xampp/htdocs/dev/lgbeauty2.dev/index.html",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/index.php",
+		"/C/xampp/htdocs/dev/lgbeauty2.dev/scss/fontawesome.scss",
+		"/C/xampp/htdocs/dev/lgbeauty2.dev/scss/normalize.scss",
+		"/C/xampp/htdocs/dev/lgbeauty2.dev/scss/main.scss",
+		"/C/xampp/htdocs/dev/lgbeauty2.dev/css/FortAwesome-Font-Awesome-13d5dd3/sass/font-awesome.scss",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/header.php",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/footer.php",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/main.scss",
+		"/C/xampp/htdocs/dev/lgbeauty2.dev/css/customfont/fontawesome.scss",
+		"/C/xampp/htdocs/dev/lgbeauty2.dev/header.php",
+		"/C/xampp/htdocs/dev/h5bp/README.md",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/css/main3.css",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/lgbeauty_variables.scss",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/main3.scss",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/build/css/scss/main3.css",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/09_setembro/certificados curso Lideranca/5a turma/names.xml",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/d",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/servicos2.html",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/index3.html",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/th_helpers.scss",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/index.html",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/main2.scss",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/index2.html",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/servicos.html",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/index3.html",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/.gitignore",
+		"/C/xampp/htdocs/dev/erica.dev/index.html",
+		"/C/xampp/htdocs/dev/erica.dev/.gitignore",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/normalize.scss",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/css/normalize.css",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/css/main.css",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/h5bp_helpers.scss",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/scss/h5bp_print.scss",
+		"/C/xampp/htdocs/dev/lgbeauty.dev/config.rb",
+		"/C/xampp/htdocs/dev/thlima.dev/scss/sass.scss",
+		"/C/xampp/htdocs/dev/thlima.dev/scss/bg.scss",
+		"/C/xampp/htdocs/dev/thlima.dev/scss/main2_001.scss",
+		"/C/xampp/htdocs/dev/thlima.dev/abl2.html",
+		"/C/xampp/htdocs/dev/thlima.dev/css/main2_001.css",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/dev/thlima.dev/css/sass.css",
+		"/C/xampp/htdocs/dev/thlima.dev/scss/normalize.scss",
+		"/C/Users/Thiago/Downloads/HarryPotter/Harry.Potter.And.The.Deathly.Hallows.Part.1.720p.BRRip.XviD.AC3-ViSiON.srt",
+		"/C/Users/Thiago/Downloads/harry.potter.and.the.deathly.hallows.part.2.(2011).por.1cd.(4458446)/Harry.Potter.And.The.Deathly.Hallows.Part.2.PROPER.1080p.BluRay.X264-BLOW-por.srt",
+		"/C/xampp/htdocs/dev/thlima.dev/scss/main2.scss",
+		"/C/xampp/htdocs/dev/thlima.dev/scss/main.scss",
+		"/C/xampp/htdocs/dev/thlima.dev/scss/ie.scss",
+		"/C/xampp/htdocs/dev/thlima.dev/index.html",
+		"/C/xampp/htdocs/dev/thlima.dev/js/main.js",
+		"/C/xampp/htdocs/dev/thlima.dev/i2.html",
+		"/C/xampp/htdocs/dev/thlima.dev/scss/main3.scss",
+		"/C/Users/Thiago/Desktop/a.html",
+		"/C/xampp/htdocs/dev/thlima.dev/css/main.css",
+		"/C/Users/Thiago/Downloads/Roboto.css",
+		"/C/xampp/htdocs/dev/thlima.dev/css/normalize.css",
+		"/C/xampp/htdocs/dev/thlima.dev/css/stylesheet.css",
+		"/C/xampp/htdocs/dev/thlima.dev/scss/main4.scss",
+		"/C/xampp/htdocs/dev/thlima.dev/css/main4.css",
+		"/G/Dev/thlima.dev/index.html",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Lvm/text-field.sublime-snippet",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Lvm/data-field.sublime-snippet",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Lvm/text-field.sublime-snipett",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Emmet Css Snippets/Sass/Border/bd+.sublime-snippet",
+		"/C/xampp/sendmail/source/sendmail.dpr",
+		"/C/xampp/sendmail/source/sendmail.mes",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/akismet/index.php",
+		"/C/xampp/htdocs/dev/lvm.dev/.htaccess",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm/index.html",
+		"/C/xampp/htdocs/dev/erica.dev/scss/main.scss",
+		"/C/xampp/htdocs/dev/erica.dev/js/lib/modernizr.custom.70798.js",
+		"/C/xampp/htdocs/dev/erica.dev/scss/h5bp.css",
+		"/C/xampp/htdocs/dev/erica.dev/scss/normalize.css",
+		"/C/Users/Thiago/Downloads/pure-css3-content-slider/Commented/pure-css-slider.html",
+		"/C/Users/Thiago/Downloads/pure-css3-content-slider/Commented/css/slider.css",
+		"/C/xampp/htdocs/dev/erica.dev/scss/bootstrap-responsive.css",
+		"/C/Users/Thiago/Desktop/teste.js",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/Thiago/Desktop/envio_htmlfull.php",
+		"/C/Users/Thiago/Desktop/inicial.css",
+		"/C/Users/Thiago/Desktop/mail-mon.js",
+		"/C/Users/Thiago/Desktop/mail.js",
+		"/C/Users/Thiago/Desktop/envio.php",
+		"/C/Users/Thiago/Desktop/envio_ant.php",
+		"/C/Users/Thiago/Desktop/teste.php",
+		"/C/Users/Thiago/Desktop/envio2.php",
+		"/C/Users/Thiago/Downloads/testmail2.php",
+		"/C/Users/Thiago/Downloads/testmail.php",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/periodicos/linha de frente/47_nov-26/mail mkt/index.html",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/periodicos/linha de frente/47_nov-26/pagina/index.html",
+		"/C/Users/Thiago/Downloads/PHPMailer_5.2.1/test/testemail.php",
+		"/C/Users/Thiago/Downloads/PHPMailer_5.2.1/examples/test_pop_before_smtp_basic.php",
+		"/C/Users/Thiago/Desktop/index.php",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt/js/LVM_people.js",
+		"/C/xampp/htdocs/dev/lvm.dev/wp-content/plugins/lvm_cpt/js/LVM.js",
+		"/C/Users/Thiago/Downloads/PHPMailer_5.2.1/test/phpmailerTest.php",
+		"/C/Users/Thiago/Downloads/PHPMailer_5.2.1/test/test_callback.php",
+		"/C/Users/Thiago/Documents/trabalhos/Aperas/Tecsis/2012/periodicos/linha de frente/47_nov-26/index.html",
+		"/C/Users/Thiago/Desktop/anuncio-base.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"field",
+			"inputJob",
+			"inputEmail",
+			"inputNome",
+			"{}\n",
+			"Tel1",
+			"inputTel1",
+			"typeTel1",
+			"<span class=\"close pull-left remove\">×</span>",
+			"C:/xampp/htdocs/tecsis.dev",
+			"inputCargo",
+			"Name",
+			"name",
+			"    ",
+			"   ",
+			"\n",
+			"<name>",
+			"wrap",
+			"wra",
+			"bold",
+			"240",
+			"85",
+			"</a>",
+			"lgbeauty2",
+			"lgbeauty2.",
+			"debut",
+			"lt",
+			"src=\"",
+			".png",
+			"34",
+			".4",
+			"2s",
+			"1s",
+			".c",
+			".",
+			"}",
+			"equi",
+			"lt-ie",
+			"a href",
+			".lt-ie",
+			"id=\"home\"",
+			"home",
+			"4px",
+			"html",
+			";\n",
+			"darkRed",
+			"red",
+			"logo_v",
+			"darkred",
+			"html",
+			"255",
+			"html",
+			"darkRed",
+			"darkred",
+			"1px",
+			"px",
+			"inner",
+			".",
+			"visua",
+			"thlima",
+			"#worktitle",
+			"bkp",
+			".inline",
+			"inline",
+			"extend",
+			" extend",
+			" @extend",
+			"extend .g",
+			".g",
+			"visuallyhidden",
+			"flft",
+			"clearfix",
+			"Clearfix",
+			"clearfix",
+			"extend",
+			".g",
+			"col",
+			"larg",
+			"</p>",
+			"14",
+			"12",
+			"gray",
+			"ul",
+			"            \n",
+			"0.5s",
+			"1.2s",
+			"2s",
+			"5s",
+			"1s",
+			"up",
+			"min",
+			"Include",
+			"include",
+			"768up",
+			"Include",
+			"include",
+			"min",
+			"block",
+			"url('",
+			"div",
+			"rotate(45deg)",
+			".5",
+			"scale(2)",
+			"block",
+			"45deg",
+			"center",
+			"></div",
+			"ease-in",
+			"figure",
+			"<span></span>",
+			"class=\"justElem\"",
+			"$verde",
+			"    \n",
+			"ul",
+			"$azulClaro",
+			"$azulclaro",
+			"$azulClaro",
+			"pt",
+			"$cinza",
+			"cinza",
+			"nav",
+			"inherit",
+			"justifyContent",
+			"elem\"",
+			"elem",
+			"<!-- \n                 -->",
+			"erica",
+			"(%[0-9])\\$s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$header",
+			"$1\\\\\\$s",
+			"%[0-9](\\\\\\$)s",
+			"(\\$)",
+			"\\$",
+			"</data><nome>",
+			"</nome><data>",
+			"</nome>\n<data>()</data><nome>",
+			"</nome>\n<data></data><nome>",
+			"</nome>\n<data>(.*)</data><nome>",
+			"</nome>\n<data>[0-9]{1,2}/[0-9]{1,2}\n</data><nome>",
+			"</nome>\n<data>[0-9]{1,2}/[0-9]{1,2}</data><nome>",
+			"</nome>/n<data>",
+			"e"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/dev/tecsis-assEmail/construct/constructor.html",
+					"settings":
+					{
+						"buffer_size": 6643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 83.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/dev/tecsis-assEmail/const2/js/model/user.js",
+					"settings":
+					{
+						"buffer_size": 817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "confirm.php",
+					"settings":
+					{
+						"buffer_size": 1016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								852,
+								852
+							]
+						],
+						"settings":
+						{
+							"auto_name": "confirm.php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 201.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1119,
+								1119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 303.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "previewer.html",
+					"settings":
+					{
+						"buffer_size": 3428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 365.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"lvm_p",
+				"wp-content/plugins/lvm_people_cpt/lvm_people_admin_settings.php"
+			],
+			[
+				"pre",
+				"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+			],
+			[
+				"",
+				"/C/Users/Thiago/Desktop/teste.php"
+			],
+			[
+				"p",
+				"/C/Users/Thiago/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 129.0,
+	"status_bar_visible": true
+}
